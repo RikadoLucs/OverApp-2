@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Counter-Picks com IA",
+  "description": "Um aplicativo que usa a API Gemini para analisar a composição da equipe inimiga, a sua equipe e o mapa para recomendar o personagem perfeito para counterar e garantir a vitória.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,42 @@
+import { Character } from '../types';
+
+export const characters: Character[] = [
+  // Tank
+  { name: 'D.Va', role: 'Tank', imageSeed: 'dva_ow' },
+  { name: 'Doomfist', role: 'Tank', imageSeed: 'doomfist_ow' },
+  { name: 'Junker Queen', role: 'Tank', imageSeed: 'junker_queen_ow' },
+  { name: 'Orisa', role: 'Tank', imageSeed: 'orisa_ow' },
+  { name: 'Ramattra', role: 'Tank', imageSeed: 'ramattra_ow' },
+  { name: 'Reinhardt', role: 'Tank', imageSeed: 'reinhardt_ow' },
+  { name: 'Roadhog', role: 'Tank', imageSeed: 'roadhog_ow' },
+  { name: 'Sigma', role: 'Tank', imageSeed: 'sigma_ow' },
+  { name: 'Winston', role: 'Tank', imageSeed: 'winston_ow' },
+  { name: 'Zarya', role: 'Tank', imageSeed: 'zarya_ow' },
+  // Damage
+  { name: 'Ashe', role: 'Damage', imageSeed: 'ashe_ow' },
+  { name: 'Bastion', role: 'Damage', imageSeed: 'bastion_ow' },
+  { name: 'Cassidy', role: 'Damage', imageSeed: 'cassidy_ow' },
+  { name: 'Echo', role: 'Damage', imageSeed: 'echo_ow' },
+  { name: 'Genji', role: 'Damage', imageSeed: 'genji_ow' },
+  { name: 'Hanzo', role: 'Damage', imageSeed: 'hanzo_ow' },
+  { name: 'Junkrat', role: 'Damage', imageSeed: 'junkrat_ow' },
+  { name: 'Mei', role: 'Damage', imageSeed: 'mei_ow' },
+  { name: 'Pharah', role: 'Damage', imageSeed: 'pharah_ow' },
+  { name: 'Reaper', role: 'Damage', imageSeed: 'reaper_ow' },
+  { name: 'Sojourn', role: 'Damage', imageSeed: 'sojourn_ow' },
+  { name: 'Soldier: 76', role: 'Damage', imageSeed: 'soldier76_ow' },
+  { name: 'Sombra', role: 'Damage', imageSeed: 'sombra_ow' },
+  { name: 'Symmetra', role: 'Damage', imageSeed: 'symmetra_ow' },
+  { name: 'Torbjörn', role: 'Damage', imageSeed: 'torbjorn_ow' },
+  { name: 'Tracer', role: 'Damage', imageSeed: 'tracer_ow' },
+  { name: 'Widowmaker', role: 'Damage', imageSeed: 'widowmaker_ow' },
+  // Support
+  { name: 'Ana', role: 'Support', imageSeed: 'ana_ow' },
+  { name: 'Baptiste', role: 'Support', imageSeed: 'baptiste_ow' },
+  { name: 'Brigitte', role: 'Support', imageSeed: 'brigitte_ow' },
+  { name: 'Kiriko', role: 'Support', imageSeed: 'kiriko_ow' },
+  { name: 'Lúcio', role: 'Support', imageSeed: 'lucio_ow' },
+  { name: 'Mercy', role: 'Support', imageSeed: 'mercy_ow' },
+  { name: 'Moira', role: 'Support', imageSeed: 'moira_ow' },
+  { name: 'Zenyatta', role: 'Support', imageSeed: 'zenyatta_ow' },
+];
