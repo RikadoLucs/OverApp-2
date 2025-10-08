@@ -39,4 +39,5 @@ export const characters: Character[] = [
   { name: 'Mercy', role: 'Support', imageSeed: 'mercy_ow' },
   { name: 'Moira', role: 'Support', imageSeed: 'moira_ow' },
   { name: 'Zenyatta', role: 'Support', imageSeed: 'zenyatta_ow' },
+  { name: 'Wuyang', role: 'Support', imageSeed: 'wuyang_ow' },
 ];
